@@ -24,7 +24,6 @@ public class MainActivity extends AppCompatActivity {
         initType2();
         initType3();
         initType4();
-
     }
 
     private void initType1() {
